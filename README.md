@@ -40,4 +40,8 @@ dlTool.delete();
 ```
 
 ####to continue
+```
 use the same method as we use to download
+```
+`more details in code`
+###help yourself~
